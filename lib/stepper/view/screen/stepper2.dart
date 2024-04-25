@@ -50,7 +50,7 @@ class _Stepper2State extends State<Stepper2> {
               }
             });
           },
-          stepIconBuilder: (stepIndex, stepState) {
+         stepIconBuilder: (stepIndex, stepState) {
             return CircleAvatar(
               backgroundColor: Colors.blue,
               child: Icon(
