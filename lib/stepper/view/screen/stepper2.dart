@@ -61,6 +61,7 @@ class _Stepper2State extends State<Stepper2> {
             );
           },
 
+
           type: StepperType.horizontal,
           steps: [
             Step(
