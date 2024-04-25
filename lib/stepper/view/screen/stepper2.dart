@@ -19,6 +19,7 @@ class _Stepper2State extends State<Stepper2> {
           'Flutter Stepper Demo',
           style: TextStyle(color: Colors.white),
         ),
+
       ),
       body: Theme(
         data: ThemeData(
