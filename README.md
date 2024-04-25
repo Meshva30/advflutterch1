@@ -1,16 +1,45 @@
-# advflutterch1
 
-A new Flutter project.
+<h1 align="center">Advance Flutter Chapter 1</h1>
 
-## Getting Started
+<h3 align="center">🔥 Switch Dark Theme to Light Theme 🔥</h3>
+<p align="center">
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/8fc52052-6436-41f4-9259-9f112ccf9294' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ac7090f2-fe55-48ab-8439-0c44baef40c0' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-This project is a starting point for a Flutter application.
+  <div align="center">
+    <a href="https://github.com/AnjaliPurohit2811/advancech1/tree/master/lib/theme">👉 📚 Go to dart file 📚 👈</a>
+    
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/5392e20f-5305-487e-a7da-c5abb86fcc8a" width="400">
+  </div>
+</p>
+
+
+
+  <h3 align="center">🔥 Create Registration Page using Stepper Widget🔥</h3>
+<p align="center">
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/0c502c62-5426-444e-87c6-a23daf6ab392' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ef8bed66-2bcc-4bfa-a59e-dd0cffb980cf' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <div align="center">
+    <a href="https://github.com/AnjaliPurohit2811/advancech1/tree/master/lib/theme">👉 📚 Go to dart file 📚 👈</a>
+  
+
+
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/03397f29-d932-483b-a090-106e1ce94ef4" width="400">
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/04868b96-7f17-4ea6-821d-9358711b8519" width="400">
+  </div>
+</p>
+
+
+  
+  
+
+
+
+
