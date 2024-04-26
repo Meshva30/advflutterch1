@@ -19,6 +19,7 @@ class _Stepper2State extends State<Stepper2> {
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.w500),
         ),
         backgroundColor: Colors.blue,
+
       ),
       body: Theme(
         data: ThemeData(
