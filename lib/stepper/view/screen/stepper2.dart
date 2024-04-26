@@ -15,6 +15,7 @@ class _Stepper2State extends State<Stepper2> {
     return Scaffold(
       appBar: AppBar(
         title:  Text(
+
           'Flutter Stepper Demo',
           style: TextStyle(color: Colors.white, fontWeight: FontWeight.w500),
         ),
