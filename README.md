@@ -22,7 +22,7 @@
   <h3 align="center">🔥 Create Registration Page using Stepper Widget🔥</h3>
 <p align="center">
   <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/0c502c62-5426-444e-87c6-a23daf6ab392' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ef8bed66-2bcc-4bfa-a59e-dd0cffb980cf' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/88661be2-4766-46e0-bf17-73b590faad23' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <div align="center">
     <a href="https://github.com/Meshva30/advflutterch1/tree/master/lib/stepper">👉 📚 Go to dart file 📚 👈</a>
@@ -30,7 +30,7 @@
 
 
 
-<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/03397f29-d932-483b-a090-106e1ce94ef4" width="400">
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/e6a52e5a-3902-4254-a5c7-2cc3ebd98605" width="400">
 
 <video src="https://github.com/Meshva30/advflutterch1/assets/136339359/04868b96-7f17-4ea6-821d-9358711b8519" width="400">
   </div>
@@ -38,7 +38,11 @@
 
 
   
+
+
+
   
+
 
 
 
