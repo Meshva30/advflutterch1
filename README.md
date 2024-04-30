@@ -48,6 +48,32 @@
 
 
   
+  <h3 align="center">🔥1.4 Provider & Change Theme using Provider🔥</h3>
+<p align="center">
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/cae8c14c-0834-4ab4-8507-4a7006ca336d' width = 300>
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/1e540a4d-15dc-4d1b-b88c-ec76b22feb8f' width = 300>
+  
+
+
+<p align="center">
+     <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/b6343150-eb9e-4b2b-b5ae-442448d20985' width = 300>
+    <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/b4e0e69e-f790-483d-8043-fb9c3faae882' width = 300>
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/028096bc-5294-4205-ae15-7e4a2efe76fe" width="400">
+  
+  </div>
+</p>
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/e4fa5259-1995-4cfe-b87f-2d8c4793dcce" width="400">
+
+  </div>
+</p>
+
+
+
+  <div align="center">
+    <a href="https://github.com/Meshva30/advflutterch1/tree/master/lib/stepper">👉 📚 Go to dart file 📚 👈</a>
+  
 
 
 
