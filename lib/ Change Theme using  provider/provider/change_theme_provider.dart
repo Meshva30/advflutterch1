@@ -9,11 +9,3 @@ class ChangeProvider extends ChangeNotifier {
     notifyListeners();
   }
 }
-
-class GobalThemeMode {
-  static ThemeData lighttheme = ThemeData(
-      brightness: Brightness.light,
-      colorScheme: ColorScheme.fromSwatch(
-          primarySwatch: Colors.yellow, accentColor: Colors.pink));
-  static ThemeData Darktheme = ThemeData(brightness: Brightness.light);
-}

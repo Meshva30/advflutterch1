@@ -1,16 +1,23 @@
 import 'package:advflutterch1/%20Change%20Theme%20using%20%20provider/provider/change_theme_provider.dart';
-import 'package:advflutterch1/%20Change%20Theme%20using%20%20provider/provider/counter_provider.dart';
-import 'package:advflutterch1/%20Change%20Theme%20using%20%20provider/view/screen/change_theme_using_provider.dart';
-import 'package:advflutterch1/%20Change%20Theme%20using%20%20provider/view/screen/counter_screen.dart';
-import 'package:advflutterch1/stepper/view/screen/stepper2.dart';
 import 'package:advflutterch1/stepper/view/screen/stepper_example.dart';
-import 'package:advflutterch1/theme_change/utils/global_variable.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import ' Change Theme using  provider/provider/counter_provider.dart';
+import ' Change Theme using  provider/view/screen/change_theme_using_provider.dart';
+import ' Change Theme using  provider/view/screen/counter_screen.dart';
+
 void main() {
-  runApp(ChangeNotifierProvider(
-    create: (context) => ChangeProvider(),
+  runApp(MultiProvider(
+    providers: [
+      ChangeNotifierProvider(
+        create: (context) => CounterProvider(),
+      ),
+      ChangeNotifierProvider(
+        create: (context) => ChangeProvider(),
+      )
+    ],
     child: MyApp(),
   ));
 }
@@ -26,18 +33,18 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      themeMode: Provider.of<ChangeProvider>(context).isDarkMode
+          ? ThemeMode.dark
+          : ThemeMode.light,
       debugShowCheckedModeBanner: false,
-      themeMode: Provider.of<ChangeProvider>(context,listen: true).isDarkMode ? ThemeMode.dark : ThemeMode.light,
-      theme: GobalThemeMode.lighttheme,
-      darkTheme: GobalThemeMode.Darktheme,
-
-      initialRoute: '/changeTheme',
+      theme: ThemeData.light(useMaterial3: false),
+      darkTheme: ThemeData.dark(useMaterial3: false),
+      initialRoute: '/Counter',
       routes: {
         '/Stepper': (context) => StepperApp(),
-        '/Stepper2': (context) => Stepper2(),
-        '/theme': (context) => MyApp(),
-        '/counter': (context) => Counter(),
-        '/changeTheme': (context) => Themeprovider(),
+        '/Light/dark': (context) => MyApp(),
+        '/Counter': (context) => Counter(),
+        '/ChangeTheme': (context) => ChangeTheme(),
       },
     );
   }
