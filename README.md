@@ -61,7 +61,7 @@
 
 <h3 align="center">🔥1.5 One Time Intro Screen in Flutter🔥</h3>
 <p align="center">
-  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/6fdc8948-4fcb-4a68-9feb-292bd8f4a2ea' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ee3e0079-0d2f-42cb-8b47-903f47ed0a64' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ee79bf98-ee86-4016-be65-2c8c1341dd73' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <p align="center">
@@ -76,6 +76,8 @@
 
   </div>
 </p>
+
+
 
 
 
