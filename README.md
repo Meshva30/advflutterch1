@@ -13,6 +13,7 @@
   </div>
 </p>
 
+
   <h3 align="center">🔥1.2 Create Registration Page using Stepper Widget🔥</h3>
 <p align="center">
   <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/0c502c62-5426-444e-87c6-a23daf6ab392' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -34,7 +35,7 @@
   <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/8e416bd2-70f9-4eb3-90c5-cb87df1212c3' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-
+</p>
 
 
   
@@ -58,24 +59,38 @@
 
 
 
-  
-  <h3 align="center">🔥1.5 One Time Intro Screen in Flutter🔥</h3>
+<h3 align="center">🔥1.5 One Time Intro Screen in Flutter🔥</h3>
 <p align="center">
-  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/1517eb86-4982-43ec-b68c-e752ec4fd9b2' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/998d3303-deb9-4b09-b679-d4949414da57' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
-  
-<p align="center">
-     <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/41b28292-8dc0-4d00-b5dd-5bb9f166493d' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/be4b95e0-a21b-4b97-bc5b-c8703765fa94' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/6fdc8948-4fcb-4a68-9feb-292bd8f4a2ea' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ee79bf98-ee86-4016-be65-2c8c1341dd73' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/caccd9d6-2115-4644-b987-f8e52130e701" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="center">
+     <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/d2e690cb-8cc9-4381-a8a5-5433f043e81e' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/8f7f83a6-d81a-4b6c-84bc-b35f8223b21c' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  <div align="center">
+    <a href="https://github.com/AnjaliPurohit2811/advancech1/tree/master/lib/theme">👉 📚 Go to dart file 📚 👈</a>
   
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/d04f627b-0d13-4906-8aea-863343320239" width="400">
+
   </div>
 </p>
 
-  <div align="center">
-    <a href="https://github.com/Meshva30/advflutterch1/tree/master/lib/%20Change%20Theme%20using%20%20provider">👉 📚 Go to dart file 📚 👈</a>
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
