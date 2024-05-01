@@ -56,17 +56,17 @@
   </div>
 </p>
 
-
-
-
 <h3 align="center">🔥1.5 One Time Intro Screen in Flutter🔥</h3>
+
 <p align="center">
-  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ee3e0079-0d2f-42cb-8b47-903f47ed0a64' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/blob/master/intro/intro.png' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
   <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/ee79bf98-ee86-4016-be65-2c8c1341dd73' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="center">
      <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/d2e690cb-8cc9-4381-a8a5-5433f043e81e' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
     <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/8f7f83a6-d81a-4b6c-84bc-b35f8223b21c' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
   <div align="center">
     <a href="https://github.com/AnjaliPurohit2811/advancech1/tree/master/lib/theme">👉 📚 Go to dart file 📚 👈</a>
