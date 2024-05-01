@@ -50,7 +50,7 @@
 
 <video src="https://github.com/Meshva30/advflutterch1/assets/136339359/028096bc-5294-4205-ae15-7e4a2efe76fe" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   
-  </div>
+  <div>
 </p>
 <video src="https://github.com/Meshva30/advflutterch1/assets/136339359/e4fa5259-1995-4cfe-b87f-2d8c4793dcce" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   </div>
