@@ -1,4 +1,5 @@
 import 'package:advflutterch1/%20Change%20Theme%20using%20%20provider/provider/change_theme_provider.dart';
+import 'package:advflutterch1/Contact_Us_Page_With_Interaction/view/screen/Contact_Us_Page.dart';
 import 'package:advflutterch1/intro/provider/intro_provider.dart';
 import 'package:advflutterch1/stepper/view/screen/stepper_example.dart';
 import 'package:flutter/cupertino.dart';
@@ -46,18 +47,19 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       theme: ThemeData.light(useMaterial3: false),
       darkTheme: ThemeData.dark(useMaterial3: false),
-      // initialRoute: '/intro1',
-      // routes: {
-      //   '/Stepper': (context) => StepperApp(),
-      //   '/Light/dark': (context) => MyApp(),
-      //   '/Counter': (context) => Counter(),
-      //   '/ChangeTheme': (context) => ChangeTheme(),
-      //   '/intro1': (context) => Intro1(),
-      //
-      // },
-      home: Provider.of<IntroProvider>(context, listen: true).isClicked
-          ? Counter()
-          : Intro1(),
+      initialRoute: '/contact',
+      routes: {
+        '/Stepper': (context) => StepperApp(),
+        '/Light/dark': (context) => MyApp(),
+        '/Counter': (context) => Counter(),
+        '/ChangeTheme': (context) => ChangeTheme(),
+        '/intro1': (context) => Intro1(),
+        '/contact': (context) => Contact(),
+
+      },
+      // home: Provider.of<IntroProvider>(context, listen: true).isClicked
+      //     ? Counter()
+      //     : Intro1(),
     );
   }
 }
