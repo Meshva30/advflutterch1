@@ -14,7 +14,7 @@ class Contact extends StatelessWidget {
         title: Text(
           'Contact Us',
           style: TextStyle(
-              color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 28),
+              color: Colors.blue, fontWeight: FontWeight.bold, fontSize: 22),
         ),
         leading: Icon(
           Icons.arrow_back_ios,
@@ -32,7 +32,7 @@ class Contact extends StatelessWidget {
               style: TextStyle(
                   color: Colors.black,
                   fontWeight: FontWeight.w500,
-                  fontSize: 18),
+                  fontSize: 15),
             ),
           ),
           SizedBox(
