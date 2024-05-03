@@ -1,5 +1,4 @@
 import 'package:advflutterch1/Photo_Gallery_With_Biometric_Authentication/utils/list.dart';
-
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -13,12 +12,13 @@ class Gallery extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.white,
         elevation: 2,
         shadowColor: Colors.black38,
-        leading: const Icon(Icons.menu),
+        leading: const Icon(Icons.menu,color: Colors.black,),
         title: const Text(
           'Gallery',
-          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
+          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22,color: Colors.black),
         ),
         centerTitle: true,
       ),
@@ -53,7 +53,7 @@ class Gallery extends StatelessWidget {
                   ),
                 ),
                 const SizedBox(
-                  width: 200,
+                  width: 130,
                 ),
                 const Icon(Icons.search),
                 const SizedBox(
@@ -77,6 +77,14 @@ class Gallery extends StatelessWidget {
                       child: Text('Setting'),
                     ),
                     const PopupMenuItem<String>(
+                      value: 'Search',
+                      child: Text('Search'),
+                    ),
+                    const PopupMenuItem<String>(
+                      value: 'Albums',
+                      child: Text('Albums'),
+                    ),
+                    const PopupMenuItem<String>(
                       value: 'Hide Folder',
                       child: Text('Hide Folder'),
                     ),
@@ -96,7 +104,7 @@ class Gallery extends StatelessWidget {
               itemBuilder: (context, index) => gridviewImage(
                 images[index]['img'],
                 images[index]['name'],
-                images[index]['num'],
+                images[index]['number'],
               ),
               itemCount: images.length,
             ),
@@ -106,7 +114,7 @@ class Gallery extends StatelessWidget {
     );
   }
 
-  Widget gridviewImage(String img, String name, String num) {
+  Widget gridviewImage(String img, String name, String number) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 10,vertical: 10),
       child: SingleChildScrollView(
@@ -128,7 +136,7 @@ class Gallery extends StatelessWidget {
               style: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
             Text(
-              num,
+              number,
               style: const TextStyle(color: Colors.grey),
             ),
           ],

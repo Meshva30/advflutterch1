@@ -11,12 +11,13 @@ class HideScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        backgroundColor: Colors.white,
         elevation: 2,
         shadowColor: Colors.black38,
-        leading: const Icon(Icons.menu),
+        leading: const Icon(Icons.menu,color: Colors.black,),
         title: const Text(
           'Hide Albums',
-          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22),
+          style: TextStyle(fontWeight: FontWeight.bold, fontSize: 22,color: Colors.black),
         ),
         actions: const [
           Icon(Icons.search),
@@ -51,7 +52,9 @@ class HideScreen extends StatelessWidget {
               ],
             ),
             GridView.builder(
+
               shrinkWrap: true,
+
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: 5,
                 childAspectRatio: 5/6,
@@ -78,6 +81,7 @@ class HideScreen extends StatelessWidget {
               ],
             ),
             GridView.builder(
+
               shrinkWrap: true,
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: 5,
@@ -85,7 +89,7 @@ class HideScreen extends StatelessWidget {
               ), itemBuilder: (context, index) => hideView(
               hideimages[index],
             ),
-              itemCount: 15,
+              itemCount: hideimages.length,
             ),
           ],
         ),
