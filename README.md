@@ -97,6 +97,26 @@
   </div>
 </p>
 
+<h3 align="center">🔥1.7 Photo Gallery With Biometric Authentication🔥</h3>
+
+<p align="center">
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/1f750600-443d-4861-91f3-735b00ee40a9' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='https://github.com/Meshva30/advflutterch1/assets/136339359/401d4744-9f22-4c48-a20e-6113d9790f06' width = 300>&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+  <div align="center">
+    <a href="">👉 📚 Go to dart file 📚 👈</a>
+  
+
+<video src="https://github.com/Meshva30/advflutterch1/assets/136339359/eba88dcf-9232-4fde-9d00-05cd019a0070" width="400">
+
+  </div>
+</p>
+
+
+
+
+
 
 
 
